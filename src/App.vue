@@ -229,7 +229,8 @@ export default {
       closeEditModal,
       updateWinner,
       filterByName,
-      searchTerm
+      searchTerm,
+      filteredWinners
     }
   }
 }
